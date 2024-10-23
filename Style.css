@@ -34,7 +34,7 @@ body {
 
 .item:hover {
 	flex-grow: 2;
-	font-size: 400px;
+	font-size: 300px;
 }
 
 h3 {
